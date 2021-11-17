@@ -9,3 +9,6 @@ The Data comes from the [Yelp Dataset](https://www.yelp.com/dataset), which cont
 
 ## Data Architecture
 ![](https://raw.githubusercontent.com/jiahao25/Data-Engineering-Project---Yelp-Reviews-Analytics-using-AWS/main/Screenshot%202021-11-17%20at%2010.05.29%20AM.png)
+
+## Insights
+I've created some insights and store it in an excel sheet (attached in this repo). Some examples are 'Review scores of Business X' over time and 'Finding Potential Bloggers/Influencers' based on the number of reviews that they did.
